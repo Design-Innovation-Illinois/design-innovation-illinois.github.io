@@ -1,0 +1,36 @@
+#home {
+  background-color: #F5F5F5;
+  padding: 5% 5% 10% 5%;
+}
+#title {
+  font-family: 'Roboto Slab', serif;
+  color: #FF6666;
+  font-size: 2em;
+}
+#hero {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2em;
+}
+#secondary {
+  font-family: 'Roboto Mono', monospace;
+}
+.navbar {
+  background-color: #F5F5F5;
+}
+.nav-link {
+  font-family: 'Roboto Mono', monospace;
+  color: #4285BE !important;
+}
+.nav-link:hover {
+  color: #FF6666 !important;
+}
+.project-card {
+  border: 5px solid transparent;
+  transition: .5s ease-out;
+}
+.project-card:hover {
+  border: 5px solid #FF6666;
+}
+#heart {
+  color: #FF6666;
+}
